@@ -1,0 +1,6 @@
+#jangan upload folder
+node_modules
+model
+
+#jangan upload file
+.env
